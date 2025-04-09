@@ -1,16 +1,21 @@
-## Hi there 👋
+## Olá eu sou a Danny  👋
 
-<!--
-**DanatiellyCP/DanatiellyCP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👩‍💻 Hoje trabalho com Desenvolvimento de Sistemas:
+  - Delphi [Pascal | Integração bancária | Relatóros | Libs ... 🌪️]
+  - Web [🐘PHP | JS | CSS | HTML]
+  - Banco de Dados [🐋MySql | Postgresql | Paradox]
+  
+- 📚 Estudando:
+  - 🔷📱 Desenvolvmento mobile com Flutter e Dart.
+  - 🐍 Estudando: Python | IA | Django
+  
+- 📧 Como me contatar:
+  - danny_costa87@outlook.com
+  
+- 🧑‍🎓 Formação:
+  - 🖥️ Tecnologia em Análise e Desenvolvimento de Sistemas;
+  - 🤖 Especialização em Inteligência Artificial e Machine Learning;
+  - ⏳ Cursando 3/10 semestre de Engenharia da Computação.
+    
+- 🪐 Curiosidade: Além de amar programar, estudar e trabalhar com computação, sou formada em Cinema🎥
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
