@@ -1,12 +1,12 @@
 ## Olá eu sou a Danny  👋
 
 - 👩‍💻 Hoje trabalho com Desenvolvimento de Sistemas:
-  - Delphi [Pascal | Integração bancária | Relatóros | Libs ... 🌪️]
+  - Delphi [Pascal | Integração bancária | Relatórios | Libs. ... 🌪️]
   - Web [🐘PHP | JS | CSS | HTML]
   - Banco de Dados [🐋MySql | Postgresql | Paradox]
   
 - 📚 Estudando:
-  - 🔷📱 Desenvolvmento mobile com Flutter e Dart.
+  - 🔷📱 Desenvolvimento mobile com Flutter e Dart.
   - 🐍 Estudando: Python | IA | Django
   
 - 📧 Como me contatar:
@@ -18,4 +18,3 @@
   - ⏳ Cursando 3/10 semestre de Engenharia da Computação.
     
 - 🪐 Curiosidade: Além de amar programar, estudar e trabalhar com computação, sou formada em Cinema🎥
-
