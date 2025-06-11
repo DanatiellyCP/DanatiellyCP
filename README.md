@@ -1,20 +1,26 @@
-## Olá eu sou a Danny  👋
+# Olá sou a Danatielly !
+Desenvolvedora Backend especialista em IA e Machine Learning
+  
+##
+<div>
+    <img width="30" height="30" alt="" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+    <img width="25" height="25" alt="" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+     <img width="20" height="20" alt="" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> 
+    <img width="25" height="25" alt="" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+    <img width="25" height="25" alt="" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+    <img width="20" height="20" alt="" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> 
+</div>
 
-- 👩‍💻 Hoje trabalho com Desenvolvimento de Sistemas:
-  - Delphi [Pascal | Integração bancária | Relatórios | Libs. ... 🌪️]
-  - Web [🐘PHP | JS | CSS | HTML]
-  - Banco de Dados [🐋MySql | Postgresql | Paradox]
-  
-- 📚 Estudando:
-  - 🔷📱 Desenvolvimento mobile com Flutter e Dart.
-  - 🐍 Estudando: Python | IA | Django
-  
-- 📧 Como me contatar:
-  - danny_costa87@outlook.com
-  
-- 🧑‍🎓 Formação:
-  - 🖥️ Tecnologia em Análise e Desenvolvimento de Sistemas;
-  - 🤖 Especialização em Inteligência Artificial e Machine Learning;
-  - ⏳ Cursando 3/10 semestre de Engenharia da Computação.
+##
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DanatiellyCosta-Dev&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=DanatiellyCosta-Dev&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanatiellyCosta-Dev&size_weight=0.5&count_weight=0.5)
+
+##
+- 📧 Como me contatar: danny_costa87@outlook.com
+
     
-- 🪐 Curiosidade: Além de amar programar, estudar e trabalhar com computação, sou formada em Cinema🎥
+
