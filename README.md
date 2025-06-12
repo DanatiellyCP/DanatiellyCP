@@ -1,7 +1,7 @@
 # Olá sou a Danatielly !
 Desenvolvedora Backend
 
--  **Skils**
+-  **Skills**
 <div>
     <img width="30" height="30" alt="" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
     <img width="25" height="25" alt="" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
@@ -20,7 +20,8 @@ Desenvolvedora Backend
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanatiellyCP&size_weight=0.5&count_weight=0.5)
 
 ##
-- 📧 Como me contatar: danny_costa87@outlook.com
+- 📧 **Contato:**
+  danny_costa87@outlook.com
 
     
 
