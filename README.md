@@ -1,5 +1,5 @@
 # Olá sou a Danatielly !
-Desenvolvedora Backend especialista em IA e Machine Learning
+Desenvolvedora Backend
   
 ##
 <div>
