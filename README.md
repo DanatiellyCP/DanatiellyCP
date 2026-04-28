@@ -3,7 +3,7 @@ Analista de Sistemas, Programadora Desenvolvedora Backend, Pesquisadora em IA e 
 
 - Atualmente me dedicando ao meu projeto Blue Hause:
 <div>
-	<a href="https://bluehause.netlify.app/" target="blank"> 
+	<a href="https://catecnologia.netlify.app/" target="blank"> 
 		Visite o meu portfólio 🚀🤖📱🛠️
 </div>
 
