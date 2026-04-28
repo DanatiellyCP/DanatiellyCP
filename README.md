@@ -1,7 +1,7 @@
 # Olá sou a Danatielly !
 Analista de Sistemas, Programadora Desenvolvedora Backend, Pesquisadora em IA e Matematica Computacional
 
-- Atualmente me dedicando ao meu projeto Blue Hause:
+- Atualmente me dedicando ao meu projeto de software house CA Tecnologia:
 <div>
 	<a href="https://catecnologia.netlify.app/" target="blank"> 
 		Visite o meu portfólio 🚀🤖📱🛠️
